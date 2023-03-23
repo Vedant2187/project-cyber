@@ -1,0 +1,62 @@
+.m1p {
+    background-color: brown
+}
+
+.m2p {
+    background-color:yellow
+
+}
+
+.m3p {
+    background-color:orange
+
+}
+
+.m4p {
+    background-color:blue
+
+}
+
+.m5p {
+    background-color:cyan
+
+}
+.positive{
+    background-color: green;
+}
+.negative{
+    background-color: red;
+}
+.m1n{
+    background-color: crimson;
+}
+.m2n{
+    background-color: violet;
+}
+.m3n{
+    background-color: firebrick;
+}
+.m4n{
+    background-color: mediumspringgreen;
+}
+.m5n{
+    background-color: palegoldenrod;
+}
+
+.age{
+    color: green;
+    
+}
+.questions{
+    background-color: coral;
+}
+.negative{list-style-image: url(lion2.png);
+    
+}
+
+.good{
+    list-style-image: url(heart2.png);
+}
+.five{
+    list-style-type: circle;
+}
